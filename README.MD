@@ -2,11 +2,6 @@
 
 This repository contains code for performing background subtraction on light curves using data from FITS files. The main script is implemented in a Jupyter Notebook (Bag_sub.ipynb).
 
-## Repository Structure
-.DS_Store
-Bag_sub.ipynb
-Datasets/glg_tte_n1_bn111220486_v00.fit, glg_tte_n1_bn141031998_v00.fit, glg_tte_n5_bn170817529_v00.fit, glg_tte_n6_bn090510016_v00.fit, glg_tte_n6_bn200907957_v00.fit, glg_tte_n6_bn230428381_v00.fit, glg_tte_n8_bn090719063_v00.fit
-
 ## Requirements
 
 - Python 3.9
